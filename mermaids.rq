@@ -1,0 +1,10 @@
+SELECT DISTINCT ?what_we_talk_about_when_we_talk_about_mermaids
+{
+SERVICE <http://collection.britishmuseum.org/sparql>
+{ bm:x105373 ^crm:P129_is_about ?concept .
+  ?concept ^crm:P128_carries ?object .
+  ?object crm:P128_carries/crm:P129_is_about ?thing .
+  ?thing skos:inScheme bm:subject .
+  ?thing skos:prefLabel|skos:altLabel ?what_we_talk_about_when_we_talk_about_mermaids .
+}
+}
