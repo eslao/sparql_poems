@@ -8,3 +8,309 @@ SERVICE <http://collection.britishmuseum.org/sparql>
   ?thing skos:prefLabel|skos:altLabel ?what_we_talk_about_when_we_talk_about_mermaids .
 }
 }
+
+# Output, as of 2017.03.28:
+# mermaid
+# flower
+# musical instrument
+# fish
+# bird
+# mammal
+# reptile
+# eroticism/sex
+# mollusc
+# monk/nun
+# lotus
+# classical deity
+# regatta
+# harbour/port
+# heraldry
+# moon
+# pilgrim
+# church
+# musician
+# boat/ship
+# architecture
+# planet/constellation
+# insect
+# mythical figure/creature
+# costume/clothing
+# sun/moon
+# king/queen
+# arms/armour
+# jewellery
+# tree/bush
+# deity
+# saint/martyr
+# christ child
+# satire
+# fountain
+# triton
+# academic
+# sailor
+# fighting/brawling
+# suicide
+# carriage/coach
+# coffee-house
+# post office
+# dragon
+# newspaper
+# medicine/health
+# law
+# classical mythology
+# scholar
+# death
+# calligraphy
+# ornament
+# battle
+# devil/demon
+# satyr
+# fisherman/fishing
+# cave
+# knight
+# vessel
+# symbol
+# metalwork
+# unicorn
+# griffin
+# crown
+# religious object
+# myth/legend
+# equestrian
+# cherub/cupid
+# plant
+# leaf
+# old testament
+# landscape
+# flag/pennant
+# shell
+# nereid
+# attendant
+# christ
+# virgin and child
+# angel
+# monster
+# soldier
+# merman
+# chrysanthemum
+# anemone
+# peony
+# cymbal
+# drum
+# horn
+# flute
+# trumpet
+# gong
+# guitar
+# rattle
+# violin
+# whistle
+# xylophone
+# accordion
+# biwa
+# piano
+# shamisen
+# horse
+# dolphin
+# tortoise
+# lizard
+# snake
+# turtle
+# gekko
+# terrapin
+# phallus
+# erotic
+# eroticism
+# pornography
+# sex
+# oyster
+# octopus
+# squid
+# snail
+# cuttlefish
+# nun
+# abbot
+# friar
+# abbess
+# monk
+# harbour
+# port
+# emblem
+# coat of arms
+# coat-of-arms
+# mon
+# armorial
+# blazon
+# crest
+# family crest
+# heraldic device
+# crescent moon
+# pilgrimage
+# cathedral
+# chapel
+# boat
+# canoe
+# ship
+# barge
+# junk
+# ferry
+# galley
+# gondola
+# transport-sea
+# building
+# tower
+# terrace
+# star
+# constellation
+# planet
+# pegasus
+# beast
+# gorgon
+# minotaur
+# mythical creature
+# mythical figure
+# mythological creature
+# mythological figure
+# costume
+# clothing
+# fashion
+# sun
+# queen
+# king
+# arrow
+# arms
+# bow
+# dagger
+# sword
+# helmet
+# club
+# axe
+# gun
+# ammunition
+# armour
+# bayonet
+# cannon
+# catapult
+# weapon
+# bomb
+# grenade
+# bracelet
+# finger ring
+# bangle
+# tree
+# bough
+# bush
+# shrub
+# goddess
+# god
+# apostle
+# martyr
+# saint
+# admiral
+# combat
+# fight
+# fighting
+# brawl
+# brawling
+# domestic violence
+# street brawl
+# street fight
+# carriage
+# coach
+# café
+# medical
+# medicine
+# health
+# memento mori
+# initial letter
+# alphabet
+# demon
+# devil
+# faun
+# satyress
+# angler
+# fisher
+# fisherman
+# fishing
+# subsistence
+# whaling
+# bowl
+# dish
+# box
+# pot
+# jar
+# pouch
+# mortar
+# vase
+# barrel
+# plate
+# jug
+# bottle
+# kettle
+# beaker
+# cooking pan
+# sack
+# bucket
+# amphora
+# pan
+# can
+# ampulla
+# cooking-pan
+# sake cup
+# sake-cup
+# calabash
+# auspicious
+# daiji
+# impresa
+# gryphon
+# griffon
+# altar
+# caduceus
+# tripod
+# chalice
+# altar-vessel
+# altarpiece
+# mitre
+# legend
+# fairy tale
+# myth
+# mythology
+# horseman
+# rider
+# dressage
+# equitation
+# cupid
+# cherub
+# vegetal
+# flora
+# laurel
+# acanthus
+# betel
+# foliage
+# apocrypha
+# plain
+# lake
+# desert
+# grotto
+# mountain
+# savanna
+# topography
+# valley
+# standard
+# pennant
+# flag
+# ensign
+# guardian angel
+# peri
+# seraph
+# army
+# brigadier
+# colonel
+# condottiere
+# condottieri
+# general
+# halberdier
+# janissary
+# lieutenant
+# sargeant-major
+# sentinel
